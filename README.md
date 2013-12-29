@@ -1,14 +1,19 @@
 KoralGreen
 ========
 
-A dark, relaxing, simple SublimeText 2/3 color Scheme
-
+##### A dark, relaxing, simple SublimeText 2/3 color Scheme.
 
 Should work on both ST2 and ST3 (only ST3 tested)
 
+Created using [ColorSchemeEditor-ST2](https://github.com/bobef/ColorSchemeEditor-ST2) and [ColorPicker](https://github.com/weslly/ColorPicker).
 
-![html](https://github.com/koreldan/Sublimetext-Scheme_KoralGreen/blob/master/koralgreen_html.png)
+Looks great with [Centurion - UI theme](https://github.com/allanhortle/Centurion) !
 
-![php](https://github.com/koreldan/Sublimetext-Scheme_KoralGreen/blob/master/koralgreen_php.png)
+### Html sample
+![html](/koralgreen_html.png)
 
-![css](https://github.com/koreldan/Sublimetext-Scheme_KoralGreen/blob/master/koralgreen_css.png)
+### PHP sample
+![php](/koralgreen_php.png)
+
+### CSS sample
+![css](/koralgreen_css.png)

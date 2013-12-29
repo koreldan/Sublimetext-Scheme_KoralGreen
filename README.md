@@ -1,7 +1,10 @@
-SublimeText 2/3 color Scheme - KoralGreen
+KoralGreen
 ========
 
-Dark, relaxing, simple color scheme for ST2 and ST3 (i'm using it in ST3)
+A dark, relaxing, simple SublimeText 2/3 color Scheme
+
+
+Should work on both ST2 and ST3 (only ST3 tested)
 
 
 ![html](https://github.com/koreldan/Sublimetext-Scheme_KoralGreen/blob/master/koralgreen_html.png)
